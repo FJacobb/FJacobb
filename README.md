@@ -2,7 +2,7 @@
 - 👀 I’m interested in computing 
 - 🌱 I’m currently learning webdesign, Software Engineering program, data recovery.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me festusj52@gmail.com +2348151612499
+- 📫 How to reach me festusjacobbaba@gmail.com +2347040326271
 
 <!---
 FJacobb/FJacobb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
